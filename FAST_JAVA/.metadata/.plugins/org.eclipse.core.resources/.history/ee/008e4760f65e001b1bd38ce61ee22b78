@@ -1,0 +1,9 @@
+package staticex;
+
+public class StudentIDTest {
+	
+	public studentLee = new Student("Lee") {
+		
+	}
+
+}
