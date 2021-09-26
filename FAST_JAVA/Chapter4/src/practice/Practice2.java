@@ -6,7 +6,7 @@ public class Practice2 {
 
 	public static void main(String[] args) {
 
-		System.out.println("È¦¼ö°ªÀ» ÀÔ·ÂÇÏ¼¼¿ä.");
+		System.out.println("í™€ìˆ˜ê°’ì„ ì…ë ¥í•˜ì„¸ìš”.");
 		
 		Scanner scanner = new Scanner(System.in);
 		int lineCount = scanner.nextInt();
