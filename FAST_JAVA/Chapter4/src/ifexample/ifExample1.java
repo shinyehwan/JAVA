@@ -7,11 +7,11 @@ public class ifExample1 {
 		char gender = 'M';
 		
 		if( gender == 'F') {
-			System.out.println("¿©¼ºÀÔ´Ï´Ù.");
+			System.out.println("ì—¬ì„±ì…ë‹ˆë‹¤.");
 			
 		}
 		else {
-			System.out.println("¿©¼ºÀÌ ¾Æ´Õ´Ï´Ù.");
+			System.out.println("ì—¬ì„±ì´ ì•„ë‹™ë‹ˆë‹¤.");
 			
 		}
 	}

@@ -4,15 +4,15 @@ public class StudentTest {
 
 	public static void main(String[] args) {
 
-		Student studentLee = new Student("ÀÌ¼ø½Å");
-		//studentLee.studentName = "ÀÌ¼ø½Å";
-		studentLee.address = "¼­¿ï";
+		Student studentLee = new Student("");
+		studentLee.studentName = "ì´ìˆœì‹ ";
+		studentLee.address = "ì„œìš¸";
 		
 		studentLee.showStudentInfo();
 		
-		Student studentKim = new Student("100, ±èÀ¯½Å");
-		//studentKim.studentName = "±èÀ¯½Å";
-		//studentKim.address = "°æÁÖ";
+		Student studentKim = new Student("100, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		//studentKim.studentName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½";
+		//studentKim.address = "ï¿½ï¿½ï¿½ï¿½";
 		
 		
 		studentKim.showStudentInfo();

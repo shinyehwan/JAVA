@@ -9,22 +9,22 @@ public class SwitchCaseEx {
 		Scanner scanner = new Scanner(System.in);
 		
 		int rank = scanner.nextInt();
-		char medalColar = 'A';
+		char medalColar='A';
 		
 		switch(rank) {
 			case 1 : medalColar = 'G';
-				System.out.println("±İ¸Ş´Ş");
-				break; //break¸¦ ¹İµå½Ã ³Ö¾î ³õ¾Æ¾ßÇÑ´Ù.
+				System.out.println("ê¸ˆë©”ë‹¬");
+				break; //break.
 			case 2 : medalColar = 'S';
-				System.out.println("Àº¸Ş´Ş");
+				System.out.println("ì€ë©”ë‹¬");
 				break;
 			case 3 : medalColar = 'B';
-				System.out.println("µ¿¸Ş´Ş");
+				System.out.println("ê¸ˆë©”ë‹¬");
 				break;
-			//default : medalColar = 'A';
+			// default : medalColar = 'A';
 			
 		}
-		System.out.println(rank + "µîÀº " + medalColar + "¸Ş´ŞÀÔ´Ï´Ù.");
+		System.out.println(rank + "ë“±ì€ " + medalColar + "ë©”ë‹¬ì…ë‹ˆë‹¤.");
 		
 	}
 

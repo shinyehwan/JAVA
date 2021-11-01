@@ -17,7 +17,7 @@ public class ImplicitConversion {
 		System.out.println(fNum);
 		
 		double dNum;
-		dNum = fNum + iNum;
+		dNum = fNum + iNum; // 정수가 float로, float의 결과가 double로 바뀜
 		
 		System.out.println(dNum);
 		

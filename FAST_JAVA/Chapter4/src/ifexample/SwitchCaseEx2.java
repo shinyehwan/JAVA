@@ -17,7 +17,7 @@ public class SwitchCaseEx2 {
 				day = 28;
 				break;
 					
-			case 4 :  case 6 : case 11:
+			case 4 :  case 6 : case 9 : case 11:
 				day = 30;
 				break;
 			
@@ -26,7 +26,7 @@ public class SwitchCaseEx2 {
 				day=0;
 			
 		}
-		System.out.println(month + "¿ùÀº " + day + "ÀÏÀÔ´Ï´Ù.");
+		System.out.println(month + "ì›”ì€"  + day + "ì¼ì…ë‹ˆë‹¤..");
 	}
 
 }

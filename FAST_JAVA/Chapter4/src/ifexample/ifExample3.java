@@ -6,7 +6,7 @@ public class ifExample3 {
 
 	public static void main(String[] args) {
 
-	/*	Scanner scanner = new Scanner(System.in);
+	Scanner scanner = new Scanner(System.in);
 		
 		int score = scanner.nextInt();
 		char grade;
@@ -29,16 +29,16 @@ public class ifExample3 {
 			grade = 'F';
 		}
 		
-		System.out.println("Á¡¼ö : " +score);
-		System.out.println("ÇÐÁ¡ : " +grade);
-	*/
+		System.out.println("í•™ì  : " +score);
+		System.out.println("ì ìˆ˜ : " +grade);
+	/*
 		int a = 10;
 		int b = 20;
 		
 		int max;
 		max = (a>b) ? a:b;
 		System.out.println(max);
-		
+	*/	
 	}
 	
 

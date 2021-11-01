@@ -8,7 +8,7 @@ public class CharTest {
 		
 		System.out.println(ch);
 		System.out.println((int)ch);
-		
+
 		int iCh = 66;
 		
 		System.out.println(iCh);
@@ -16,9 +16,12 @@ public class CharTest {
 		
 		char hangul = '\uAC00';
 		System.out.println(hangul);
+
+		char ch2 ='í•œ';
 		
 		
-		char ch2 = 'ÇÑ';
+		
+		
 		
 		
 		}		

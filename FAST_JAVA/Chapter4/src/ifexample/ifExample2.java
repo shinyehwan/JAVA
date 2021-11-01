@@ -18,19 +18,19 @@ public class ifExample2 {
 		}
 		else if ( age < 14) {
 			charge = 1500;
-			System.out.println("ÃÊµî»ý");
+			System.out.println("ì´ˆë“±ìƒ");
 			
 		}
 		else if ( age < 20) {
 			charge = 2000;
-			System.out. println("Áß°íµî»ý");
+			System.out. println("ì¤‘ê³ ë“±ìƒ");
 			
 		}
 		else {
 			charge = 3000;
 		}
-		System.out.println("³ªÀÌ : " + age);
-		System.out.println("¿ä±Ý : " + charge);
+		System.out.println("ë‚˜ì´ : " + age);
+		System.out.println("ìš”ê¸ˆ : " + charge);
 	}
 
 }

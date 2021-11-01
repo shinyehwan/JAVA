@@ -1,0 +1,371 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTest",
+            "request": "launch",
+            "mainClass": "Chapter2/variable.BinaryTest",
+            "projectName": "Chapter2"
+        },
+        {
+            "type": "java",
+            "name": "Launch BooleanTest",
+            "request": "launch",
+            "mainClass": "Chapter2/variable.BooleanTest",
+            "projectName": "Chapter2"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharTest",
+            "request": "launch",
+            "mainClass": "Chapter2/variable.CharTest",
+            "projectName": "Chapter2"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoubleTest",
+            "request": "launch",
+            "mainClass": "Chapter2/variable.DoubleTest",
+            "projectName": "Chapter2"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoubleTest2",
+            "request": "launch",
+            "mainClass": "Chapter2/variable.DoubleTest2",
+            "projectName": "Chapter2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExplicitConversion",
+            "request": "launch",
+            "mainClass": "Chapter2/variable.ExplicitConversion",
+            "projectName": "Chapter2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImplicitConversion",
+            "request": "launch",
+            "mainClass": "Chapter2/variable.ImplicitConversion",
+            "projectName": "Chapter2"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegerTest",
+            "request": "launch",
+            "mainClass": "Chapter2/variable.IntegerTest",
+            "projectName": "Chapter2"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableTest",
+            "request": "launch",
+            "mainClass": "Chapter2/variable.VariableTest",
+            "projectName": "Chapter2"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx1",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx1",
+            "projectName": "Chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx2",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx2",
+            "projectName": "Chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx3",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx3",
+            "projectName": "Chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx4",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx4",
+            "projectName": "Chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchCaseEx",
+            "request": "launch",
+            "mainClass": "ifexample.SwitchCaseEx",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchCaseEx2",
+            "request": "launch",
+            "mainClass": "ifexample.SwitchCaseEx2",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifExample1",
+            "request": "launch",
+            "mainClass": "ifexample.ifExample1",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifExample2",
+            "request": "launch",
+            "mainClass": "ifexample.ifExample2",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifExample3",
+            "request": "launch",
+            "mainClass": "ifexample.ifExample3",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakContinueTest",
+            "request": "launch",
+            "mainClass": "loopexample.BreakContinueTest",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakExample",
+            "request": "launch",
+            "mainClass": "loopexample.BreakExample",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountinueExample",
+            "request": "launch",
+            "mainClass": "loopexample.CountinueExample",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoWhileExample",
+            "request": "launch",
+            "mainClass": "loopexample.DoWhileExample",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForExample",
+            "request": "launch",
+            "mainClass": "loopexample.ForExample",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nestedloop",
+            "request": "launch",
+            "mainClass": "loopexample.Nestedloop",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileExample",
+            "request": "launch",
+            "mainClass": "loopexample.WhileExample",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice1",
+            "request": "launch",
+            "mainClass": "practice.Practice1",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice2",
+            "request": "launch",
+            "mainClass": "practice.Practice2",
+            "projectName": "Chapter4"
+        },
+        {
+            "type": "java",
+            "name": "Launch FuctionTest",
+            "request": "launch",
+            "mainClass": "classpart.FuctionTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest",
+            "request": "launch",
+            "mainClass": "classpart.StudentTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakeTransTest",
+            "request": "launch",
+            "mainClass": "cooperation.TakeTransTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyDateTest",
+            "request": "launch",
+            "mainClass": "hiding.MyDateTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrderTest",
+            "request": "launch",
+            "mainClass": "practice.OrderTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonTest",
+            "request": "launch",
+            "mainClass": "practice.PersonTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest(1)",
+            "request": "launch",
+            "mainClass": "reference.StudentTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompanyTest",
+            "request": "launch",
+            "mainClass": "staticex.CompanyTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentIDTest",
+            "request": "launch",
+            "mainClass": "staticex.StudentIDTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonTest(1)",
+            "request": "launch",
+            "mainClass": "thisex.PersonTest",
+            "projectName": "Chapter5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayCopy",
+            "request": "launch",
+            "mainClass": "array.ArrayCopy",
+            "projectName": "Chapter6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListTest",
+            "request": "launch",
+            "mainClass": "array.ArrayListTest",
+            "projectName": "Chapter6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayTest",
+            "request": "launch",
+            "mainClass": "array.ArrayTest",
+            "projectName": "Chapter6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookArrayTest",
+            "request": "launch",
+            "mainClass": "array.BookArrayTest",
+            "projectName": "Chapter6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharArrayTest",
+            "request": "launch",
+            "mainClass": "array.CharArrayTest",
+            "projectName": "Chapter6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectCopy",
+            "request": "launch",
+            "mainClass": "array.ObjectCopy",
+            "projectName": "Chapter6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectCopy2",
+            "request": "launch",
+            "mainClass": "array.ObjectCopy2",
+            "projectName": "Chapter6"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest(2)",
+            "request": "launch",
+            "mainClass": "array.StudentTest",
+            "projectName": "Chapter6"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDimesion",
+            "request": "launch",
+            "mainClass": "array.TwoDimesion",
+            "projectName": "Chapter6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomerTest",
+            "request": "launch",
+            "mainClass": "inheritance.CustomerTest",
+            "projectName": "Chapter7"
+        },
+        {
+            "type": "java",
+            "name": "Launch OveridingTest",
+            "request": "launch",
+            "mainClass": "inheritance.OveridingTest",
+            "projectName": "Chapter7"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnimalTest",
+            "request": "launch",
+            "mainClass": "polymorhism.AnimalTest",
+            "projectName": "Chapter7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomerTest(1)",
+            "request": "launch",
+            "mainClass": "polymorhism.CustomerTest",
+            "projectName": "Chapter7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputerTest",
+            "request": "launch",
+            "mainClass": "abstractex.ComputerTest",
+            "projectName": "Chapter8"
+        }
+    ]
+}

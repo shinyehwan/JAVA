@@ -19,7 +19,7 @@ public class Nestedloop {
 		*/
 		
 		while( dan <= 9) {
-			count = 1;
+			count = 1; // 카운트를 초기화 시켜줘야한다.
 			while( count <= 9) {
 				System.out.println(dan + "X" + count + "=" + dan * count);
 				count++;

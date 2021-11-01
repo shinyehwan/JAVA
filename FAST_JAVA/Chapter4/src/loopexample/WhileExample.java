@@ -9,9 +9,9 @@ public class WhileExample {
 		/* int num = 1;
 		int sum = 0;
 		
-		while (num <= 100) {
+		while (num <= 10) {
 			sum += num;
-			num = num + 2 ;			// 11
+			num = num ++;			// 11
 		}
 		
 		System.out.println(sum);
@@ -32,7 +32,7 @@ public class WhileExample {
 		
 		System.out.println(sum);
 		
-		// 홀수일 때, 짝수일 때 더하기도 해봐 간단해
+		// 
 		
 	}
 
