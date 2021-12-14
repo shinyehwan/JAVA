@@ -6,19 +6,19 @@ public class OrderTest {
 
 		Order order = new Order();
 		
-		order.orderNumber = 201907210001L; // LÇ¥½ÃÇÏ´Â°Å ÁÖÀÇÇÏÀÚ
+		order.orderNumber = 201907210001L; 
 		order.orderID = "abc123";
-		order.orderDate = "2019³â 7¿ù 21ÀÏ";
-		order.orderName = "È«±æ¼ø";
+		order.orderDate = "2019ë…„ 7ì›” 21ì¼";
+		order.orderName = "í™ê¸¸ìˆœ";
 		order.orderProductNumer = "PD0345-12";
-		order.orderAddress = "¼­¿ï½Ã ¿µµîÆ÷±¸ ¿©ÀÇµµµ¿ 20¹øÁö";
+		order.orderAddress = "ì„œìš¸ì‹œ ì˜ë“±í¬êµ¬ ì—¬ì˜ë„ë™ 20ë²ˆì§€";
 		
-		System.out.println("ÁÖ¹® ¹øÈ£ : " + order.orderNumber);
-		System.out.println("ÁÖ¹®ÀÚ ¾ÆÀÌµğ : " + order.orderID);
-		System.out.println("ÁÖ¹® ³¯Â¥ : " + order.orderDate);
-		System.out.println("ÁÖ¹®ÀÚ ÀÌ¸§ : " + order.orderName);
-		System.out.println("ÁÖ¹® »óÇ° ¹øÈ£ : " + order.orderProductNumer);
-		System.out.println("¹è¼Û ÁÖ¼Ò : " + order.orderAddress);
+		System.out.println("ì£¼ë¬¸ë²ˆí˜¸ : " + order.orderNumber);
+		System.out.println("ì£¼ë¬¸ì•„ì´ë”” : " + order.orderID);
+		System.out.println("ì£¼ë¬¸ ë‚ ì§œ : " + order.orderDate);
+		System.out.println("ì£¼ë¬¸ì ì´ë¦„ : " + order.orderName);
+		System.out.println("ì£¼ë¬¸ ìƒí‘¼ ë²ˆí˜¸ : " + order.orderProductNumer);
+		System.out.println("ë°°ì†¡ì£¼ì†Œ : " + order.orderAddress);
 				
 		
 		
