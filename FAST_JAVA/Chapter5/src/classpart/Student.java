@@ -6,7 +6,9 @@ public class Student { // 자바파일 이름과 퍼블릭 클래스 이름은 �
 	public int studentID; // private int studentID
 	public String studentName;
 	public String address;
-
+	
+	// public Student(){}
+	
 	public Student(String name) { 
 		studentName = name;
 	}
@@ -14,7 +16,7 @@ public class Student { // 자바파일 이름과 퍼블릭 클래스 이름은 �
 	public Student(int id, String name) {
 		studentID = id;
 		studentName = name;
-		address = "�ּ� ����";
+		address = "주소없음";
 
 	}
 
