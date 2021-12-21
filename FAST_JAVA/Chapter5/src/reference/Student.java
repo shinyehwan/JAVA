@@ -5,14 +5,15 @@ public class Student {
 	int studentID;
 	String studentName;
 	
-	/*int koreaScore;
+	/*
+	int koreaScore;
 	int mathScore;
 	int engScore;
 	
 	String koreaName;
 	String mathName;
 	String engName;
-	  ÀÌ°Ô ¹¹¾ß ÇĞ»ıÀÇ Å¬·¡½º¾ß °ú¸ñÀÇ Å¬·¡½º¾ß? */
+	 */
 	
 	Subject korea;
 	Subject math;
@@ -23,7 +24,6 @@ public class Student {
 		
 		korea = new Subject();
 		math = new Subject();
-		//»ı¼ºÀÚ¿¡¼­ ÂüÁ¶ÀÚ·áÇüÅ¸ÀÔÀÇ º¯¼ö¸¦ ÃÊ±âÈ­ÇÑ´Ù. ÄÚ¸®¾Æ, ¸Ş½ºÀÇ º¯¼ö°¡ »ı¼ºÀÌ µÇ¾ú´Ù.
 	}
 	
 	public void SetKoreaSubject(String name, int score) {
@@ -39,7 +39,7 @@ public class Student {
 	
 	public void ShowStudentScore() {
 		int total = korea.score + math.score;
-		System.out.println(studentName + "ÇĞ»ıÀÇ ÃÑÁ¡Àº " + total + "Á¡ ÀÔ´Ï´Ù.");
+		System.out.println(studentName + "í•™ìƒì˜ ì´ì ì€" + total + "ì  ì…ë‹ˆë‹¤.");
 	}
 	
 }

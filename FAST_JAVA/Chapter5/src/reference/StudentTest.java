@@ -5,12 +5,12 @@ public class StudentTest {
 	public static void main(String[] args) {
 
 		Student studentLee = new Student(100, "Lee");
-		studentLee.SetKoreaSubject("±¹¾î", 87);
-		studentLee.SetMathSubject("¼öÇÐ", 96); 
+		studentLee.SetKoreaSubject("êµ­ì–´", 87);
+		studentLee.SetMathSubject("ìˆ˜í•™", 96); 
 		
-		Student studentKim = new Student(100, "Kim");
-		studentKim.SetKoreaSubject("±¹¾î", 100);
-		studentKim.SetMathSubject("¼öÇÐ", 98); 
+		Student studentKim = new Student(101, "Kim");
+		studentKim.SetKoreaSubject("êµ­ì–´", 80);
+		studentKim.SetMathSubject("ìˆ˜í•™", 99); 
 		
 		studentLee.ShowStudentScore();
 		studentKim.ShowStudentScore();
