@@ -6,16 +6,14 @@ public class MyDateTest {
 
 		MyDate date = new MyDate();
 		
-		/*date.day = 100;
-		date.month = 70;
-		date.year = 2021;*/
-		
-		date.setYear(2021);
-		date.setMonth(1);
-		date.setDay(24);
+		date.setYear(2019);
+		date.setMonth(77);
+		date.setDay(100);
 		
 		date.showDate();
+		
+		MyDate date2 = new MyDate();
+		date2.setYear(2002);
 	}
 
-	
 }

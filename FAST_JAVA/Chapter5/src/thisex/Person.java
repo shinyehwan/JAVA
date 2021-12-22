@@ -6,8 +6,8 @@ public class Person {
 	int age;
 	
 	public Person() {
-		//this.name = "ÀÌ¸§¾øÀ½";
-		this("ÀÌ¸§¾øÀ½", 1);
+		//this.name = "ì´ë¦„ì—†ìŒ";
+		this("ì´ë¦„ì—†ìŒ", 1);
 	}
 	
 	public Person(String name, int age) {
