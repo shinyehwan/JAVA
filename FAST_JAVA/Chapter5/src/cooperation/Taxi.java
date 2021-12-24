@@ -16,7 +16,7 @@ public class Taxi {
 	}
 	
 	public void showTaxiInfo() {
-		System.out.println(taxiNumber + "¹ø ÅÃ½ÃÀÇ ½Â°´Àº " + passengerCount + "¸íÀÌ°í, ¼öÀÔÀº " + money + "¿ø ÀÔ´Ï´Ù.");
+		System.out.println(taxiNumber + "ë²ˆ íƒì‹œì˜ ìŠ¹ê°ì€ " + passengerCount + "ëª…ì´ê³ , ìˆ˜ì…ì€" + money + "ì…ë‹ˆë‹¤.");
 		
 	}
 }
