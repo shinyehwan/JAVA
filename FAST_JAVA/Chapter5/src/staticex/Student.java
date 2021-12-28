@@ -2,7 +2,7 @@ package staticex;
 
 public class Student {
 
-		// ¸â¹öº¯¼ö
+		// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		private static int serialNum = 1000;
 		private int studentID; //private int studentID
 		public String studentName;
@@ -17,13 +17,13 @@ public class Student {
 		public Student(int id, String name) {
 			studentID = id;
 			studentName = name;
-			address = "ÁÖ¼Ò ¾øÀ½";
+			address = "ì£¼ì†Œ ì—†ìŒ";
 			serialNum++;
 			studentID = serialNum;
 
 			
 		}
-		//¸Ş¼Òµå
+		//ï¿½Ş¼Òµï¿½
 		public void showStudentInfo() {
 			
 			System.out.println(studentName + ", " + address);
@@ -40,7 +40,7 @@ public class Student {
 
 		public static int getSerialNum() {
 			int i = 0;
-		 //	studentName = "Lee"; ½ºÅ×Æ½º¯¼ö¿¡¼­´Â ÀÎ½ºÅÏ½º º¯¼ö¸¦ »ç¿ëÇÒ ¼ö ¾øÀ½.
+		 //	studentName = "Lee"; //static ë³€ìˆ˜ì•ˆì—ì„œ ì¸ìŠ¤í„´ìŠ¤ ë©”ì†Œë“œëŠ” ì“¸ ìˆ˜ ì—†ë‹¤. new ë©”ì†Œë“œë¥¼ ìƒì„±í•´ì•¼í•´
 			return serialNum;
 			
 		}

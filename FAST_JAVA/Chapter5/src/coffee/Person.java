@@ -27,4 +27,5 @@ public class Person {
 			System.out.println(name + " 씨는 " + money +"원을 내고 "  + message);
 		}
 	}
+	
 }

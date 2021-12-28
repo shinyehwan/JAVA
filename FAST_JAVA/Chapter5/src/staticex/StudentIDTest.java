@@ -4,7 +4,7 @@ public class StudentIDTest {
 	
 	public static void main(String[] args) {
 		//Student studentLee = new Student("Lee");
-		System.out.println(Student.getSerialNum()); //staticº¯¼ö ÀÎ½ºÅÏ½ºÀÇ »ı¼º¿©ºÎ¿Í »ó°ü¾ø´Ù.
+		System.out.println(Student.getSerialNum()); //staticë³€ìˆ˜ëŠ” ì¸ìŠ¤í„´ìŠ¤ì˜ ìƒì„±ê³¼ëŠ” ìƒê´€ì—†ì´ ì‚¬ìš©í•œë‹¤.
 		
 		/*Student studentKim = new Student("kim");
 		

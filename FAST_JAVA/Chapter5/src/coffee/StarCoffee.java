@@ -5,7 +5,9 @@ public class StarCoffee {
     int money;
 
     public String brewing(int money){
+
         this.money+=money;
+
         if (money == Menu.STARAMERICANO){
             return "별 다방 아메리카노를 구입하였습니다";
         }
@@ -14,5 +16,8 @@ public class StarCoffee {
 		}
 		else {
 			return null;
-		}    }
+		}  
+
+    }
+    
 }
