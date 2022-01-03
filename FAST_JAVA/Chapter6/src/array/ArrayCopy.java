@@ -7,7 +7,7 @@ public class ArrayCopy {
 		int[] arr1 = {10, 20, 30, 40, 50};
 		int[] arr2 = {1, 2, 3, 4, 5};
 		
-		System.arraycopy(arr1, 0, arr2, 1, 3);
+		System.arraycopy(arr1, 0, arr2, 1, 3); // 출력해 봐서 확인하기
 		
 		for(int i = 0; i<arr2.length; i++) {
 			System.out.println(arr2[i]);
