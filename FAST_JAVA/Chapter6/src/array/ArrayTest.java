@@ -4,8 +4,8 @@ public class ArrayTest {
 
 	public static void main(String[] args) {
 
-		// 초기화 int[] arr = new int[] {1, 2, 3};
-        //      int[] arr = {1, 2, 3}; 이것도 가능하다.
+		//		int[] arr = new int[] {1, 2, 3};
+        //      int[] arr = {1, 2, 3}; 
 		
 		int[] arr = new int[10];
 		int total = 0;
