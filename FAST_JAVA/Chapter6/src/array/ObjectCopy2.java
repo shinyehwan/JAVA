@@ -7,26 +7,28 @@ public class ObjectCopy2 {
 		Book[] library = new Book[5];
 		Book[] copylibrary = new Book[5];
 		
-		library[0] = new Book("еб╧И╩Й╦ф1", "а╤а╓╥║");
-		library[1] = new Book("еб╧И╩Й╦ф2", "а╤а╓╥║");
-		library[2] = new Book("еб╧И╩Й╦ф3", "а╤а╓╥║");
-		library[3] = new Book("еб╧И╩Й╦ф4", "а╤а╓╥║");
-		library[4] = new Book("еб╧И╩Й╦ф5", "а╤а╓╥║");
-		
+		// Й╧┼Л²─ КЁ╣Л┌╛
+		library[0] = new Book("М┐°К╟╠Л┌╟К╖╔1", "Л║╟Л═∙К·≤");
+		library[1] = new Book("М┐°К╟╠Л┌╟К╖╔2", "Л║╟Л═∙К·≤");
+		library[2] = new Book("М┐°К╟╠Л┌╟К╖╔3", "Л║╟Л═∙К·≤");
+		library[3] = new Book("М┐°К╟╠Л┌╟К╖╔4", "Л║╟Л═∙К·≤");
+		library[4] = new Book("М┐°К╟╠Л┌╟К╖╔5", "Л║╟Л═∙К·≤");
+
 		copylibrary[0] = new Book();
 		copylibrary[1] = new Book();
 		copylibrary[2] = new Book();
 		copylibrary[3] = new Book();
 		copylibrary[4] = new Book();
 		
+
 		for(int i = 0; i < library.length; i++) {
-			copylibrary[i].setTitle("Ё╙╦Я");
-			copylibrary[i].setAuthor("╧з©о╪╜");
+			copylibrary[i].setTitle(library[i].getTitle());
+			copylibrary[i].setAuthor(library[i].getAuthor());
 		}
 		
 		
-		library[0].setTitle("Ё╙╦Я");
-		library[0].setAuthor("╧з©о╪╜");
+		library[0].setTitle("К┌≤К╙╘");
+		library[0].setAuthor("К╟∙Л≥└Л└°");
 		
 		for(Book book : library) {
 			book.showBookInfo();
