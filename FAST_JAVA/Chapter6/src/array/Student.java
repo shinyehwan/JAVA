@@ -27,9 +27,9 @@ public class Student {
 		
 		for( Subject subject : subjectList) {
 			total +=subject.getScore();
-			System.out.println( studentName + "ÇĞ»ıÀÇ " + subject.getName() + "°ú¸ñÀÇ ¼ºÀûÀº " + subject.getScore() + "Á¡ ÀÔ´Ï´Ù.");
+			System.out.println( studentName + "í•™ìƒì˜  " + subject.getName() + " ê³¼ëª©ì˜ ì„±ì ì€ " + subject.getScore() + "ì  ì…ë‹ˆë‹¤.");
 		}
-		System.out.println( studentName + "ÇĞ»ıÀÇ ÃÑÁ¡Àº" + total + "Á¡ ÀÔ´Ï´Ù.");
+		System.out.println( studentName + "í•™ìƒì˜ ì´ì ì€ " + total + "ì  ì…ë‹ˆë‹¤.");
 
 	}
 }

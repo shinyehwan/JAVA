@@ -9,7 +9,7 @@ public class Subject {
 		this.name = name;
 		this.score = score;
 	}
-	
+	 
 	public String getName() {
 		return name;
 	}
