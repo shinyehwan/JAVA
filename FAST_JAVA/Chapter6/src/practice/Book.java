@@ -1,7 +1,8 @@
 package practice;
 
 public class Book {
-    private String bookName;
+
+	private String bookName;
 	private String author;
 	
 	public Book(){}
@@ -28,6 +29,9 @@ public class Book {
     }
     
     public void showBookInfo(){
-		System.out.println(bookName + "," + author);
-	}
+        System.out.println(bookName + "," + author);
+    }
+
+    
+   
 }
