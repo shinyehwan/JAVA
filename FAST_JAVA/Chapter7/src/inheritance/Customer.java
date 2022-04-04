@@ -2,19 +2,19 @@ package inheritance;
 
 public class Customer {
 
-	protected int customerID;
+	protected int customerID; // 하위 클래스들은 접근이 가능하다 protected
 	protected String customerName;
 	protected String customerGrade;
 	int bonusPoint;
 	double bonusRatio;
 	
-	public Customer() {
-		customerGrade = "SILVER";
+/*	public Customer() {
+		customerGrade = "SILVER";  
 		bonusRatio = 0.01;
 		
-		System.out.println("Customer() ������ ȣ��");
+		System.out.println("Customer() 생성자 호출");
 	}
-
+*/
 	public Customer(int customerID, String customerName) {
 		this.customerID = customerID;
 		this.customerName = customerName;
@@ -22,7 +22,7 @@ public class Customer {
 		customerGrade = "SILVER";
 		bonusRatio = 0.01;
 		
-		System.out.println("Customer(int, String) ������ ȣ��");
+		System.out.println("Customer(int, String) 생성자 호출");
 	}
 	public int calcPrice(int price) {
 		
@@ -34,6 +34,9 @@ public class Customer {
 		return customerName + "님의 등급은 " + customerGrade + "이며, 적립된 보너스 포인트는 " + bonusPoint + "점 입니다." ;
 	}
 	
+
+
+
 	public int getCustomerID() {
 		return customerID;
 	}

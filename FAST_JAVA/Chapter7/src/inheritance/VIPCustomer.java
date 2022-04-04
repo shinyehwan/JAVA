@@ -8,22 +8,22 @@ public class VIPCustomer extends Customer{
 	
 	/*public VIPCustomer() {
 	
-		
+		// super(); 
 		customerGrade = "VIP";
 		bonusRatio = 0.05;
 		salesRatio = 0.1;
 		
-		System.out.println("VIPCustomer() »ı¼ºÀÚ È£Ãâ");
+		System.out.println(" VIPcustomer() ìƒì„±ì í˜¸ì¶œ")
 	}*/
 	
-	public VIPCustomer(int customerID, String customerName) {
-		super(customerID, customerName);
+	public VIPCustomer(int customerID, String customerName) { // ë§¤ê°œë³€ìˆ˜ë§Œ ìˆëŠ” ê²½ìš°ì—ëŠ” ëª…ì‹œë¥¼ í•´ì¤˜ì•¼í•œë‹¤.
+		super(customerID, customerName); 
 
 		customerGrade = "VIP";
 		bonusRatio = 0.05;
 		salesRatio = 0.1;
 		
-		System.out.println("VIPCustomer(int, String) »ı¼ºÀÚ È£Ãâ");
+		System.out.println("VIPCustomer(int, String) ìƒì„±ì í˜¸ì¶œ");
 	}
 
 	@Override
