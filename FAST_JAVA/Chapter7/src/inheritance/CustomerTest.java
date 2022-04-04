@@ -12,11 +12,12 @@ public class CustomerTest {
 		
 		
 		
-		Customer customerKim = new VIPCustomer(10020, "김유신");
+		Customer customerKim = new VIPCustomer(10020, "김유신"); // 묵시적 대입이 가능 타입별로 다른걸 가리킨다.
 		//customerKim.setCustomerName("김유신");
 		//customerKim.setCustomerID(10020);
 		customerKim.bonusPoint = 10000;
 		System.out.println(customerKim.showCustomerInfo());
+		
 		
 	}
 
