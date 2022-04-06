@@ -8,6 +8,7 @@ class Animal{
 		System.out.println("동물이 움직입니다.");
 	}
 	
+
 }
 
 class Human extends Animal{
@@ -24,7 +25,7 @@ class Tiger extends Animal{
 		System.out.println("호랑이가 네 발로 뜁니다.");
 	}
 	public void hunting() {
-		System.out.println(". ");
+		System.out.println("호랑이가 사냥을 합니다.");
 	}
 }
 
@@ -35,7 +36,7 @@ class Eagle extends Animal{
 		System.out.println("독수리가 하늘로 날아갑니다.");
 	}
 	public void flying() {
-		System.out.println("�. ");
+		System.out.println("독수리가 날개를 쭉 펴고 멀리 날아갑니다.");
 	}
 }
 
@@ -50,9 +51,18 @@ public class AnimalTest {
 		
 		
 		
-		/*Human human = (Human)hAnimal;
+		 /*Human human = (Human)hAnimal; // 다운 캐스팅을 해야한다.
 		human.readBooks();*/
 		
+		// Eagle human = (Eagle)hAnimal;
+		/*if (hAnimal instanceof Eagle){
+			Eagle human = (Eagle)hAnimal;
+		}*/
+
+		/*if (hAnimal instanceof Human){
+			Human human = (Human)hAnimal;
+		*/
+
 		/*AnimalTest test = new AnimalTest();
 		test.moveAnimal(hAnimal);
 		test.moveAnimal(tAnimal);
