@@ -12,7 +12,7 @@ public class Customer {
 		customerGrade = "SILVER";
 		bonusRatio = 0.01;
 		
-		System.out.println("Customer() ������ ȣ��");
+		System.out.println("Customer() 생성자 호출");
 	}
 */
 	public Customer(int customerID, String customerName) {
@@ -22,7 +22,7 @@ public class Customer {
 		customerGrade = "SILVER";
 		bonusRatio = 0.01;
 		
-		System.out.println("Customer(int, String) ������ ȣ��");
+		System.out.println("Customer(int, String) 생성자 호출");
 	}
 	public int calcPrice(int price) {
 		
