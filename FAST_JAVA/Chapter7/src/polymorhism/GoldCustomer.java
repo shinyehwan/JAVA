@@ -3,7 +3,6 @@ package polymorhism;
 public class GoldCustomer extends Customer{
 
 	
-	
 	double salesRatio;
 	
 	
