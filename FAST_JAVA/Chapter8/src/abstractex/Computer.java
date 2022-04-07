@@ -6,9 +6,9 @@ public abstract class Computer {
 	public abstract void typing();
 	
 	public void turnOn() {
-		System.out.println("Àü¿øÀ» ÄÕ´Ï´Ù.");
+		System.out.println("ì „ì›ì„ ì¼­ë‹ˆë‹¤.");
 	}
 	public void turnOff() {
-		System.out.println("Àü¿øÀ» ²ü´Ï´Ù.");
+		System.out.println("ì „ì›ì„ ë•ë‹ˆë‹¤.");
 	}
 }
