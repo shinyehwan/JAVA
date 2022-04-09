@@ -1,5 +1,7 @@
 package interfaceex;
 
+import java.sql.Connection;
+
 public interface Calc {
     
     double PI = 3.14;
@@ -10,4 +12,5 @@ public interface Calc {
     int times(int num1, int num2);
     int divdie(int num1, int num2);
 
+    Connection
 }
