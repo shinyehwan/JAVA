@@ -1,6 +1,5 @@
 package interfaceex;
 
-import java.sql.Connection;
 
 public interface Calc {
     
@@ -13,4 +12,29 @@ public interface Calc {
     int divdie(int num1, int num2);
 
     // Connection, statement, result set
+
+    default void description(){ // default로 제공해도 인스턴스를 생성해서 써야해
+        System.out.println("정수 계산기를 구현합니다.");
+        myMethod();
+    }
+
+    static int total(int[] arr){
+        int total = 0;
+
+        for (int i : arr){
+            total += i;
+        }
+        mystaticMethod();
+        return total;
+
+    }
+
+    private void myMethod(){
+        System.out.println("private method");
+    }
+
+    private static void mystaticMethod(){
+        System.out.println("private static method");
+    }
+
 }
