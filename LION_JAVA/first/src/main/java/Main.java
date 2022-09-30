@@ -70,3 +70,31 @@ class 플레이어 {
     String 직업;
 }
 
+
+// 각각의 자동차가 서로 다른 최고속력으로 달리게 해주세요. this 사용의 의미
+class Main {
+    public static void main(String[] args) {
+
+        자동차 a자동차1 = new 자동차();
+        자동차 a자동차2 = new 자동차();
+
+        a자동차1.최고속력 = 100;
+        a자동차2.최고속력 = 200;
+
+        a자동차1.달리다();
+        a자동차2.달리다();
+
+    }
+
+
+    class 자동차 {
+        public int 최고속력;
+
+        void 달리다() {
+            System.out.println("최고속력은 시속" + this.최고속력 + "입니다.");
+        }
+
+    }
+
+}
+
