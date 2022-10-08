@@ -19,10 +19,9 @@ class 전사 {
     void 공격() {
         if ( a무기 == null ) {
             System.out.println("아직 무기가 없습니다.");
+            return; // 입구 컷
         }
-        else {
-            a무기.작동();
-        }
+        a무기.작동(); //  if else 보다 if return 이 더 좋은 이유, 되도록 입구컷 합시다
     }
 }
 
