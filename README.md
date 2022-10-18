@@ -1,14 +1,14 @@
 # java
 
-##CODING_JAVA
+## CODING_JAVA
 생활코딩 강의를 통한 연습 적용
 
-##FAST_JAVA
+## FAST_JAVA
 - fast_campus
 - JAVA 기초
 - 객체 지향 프로그래밍
 
-##LION_JAVA
+## LION_JAVA
 - 멋사 따라 잡기 프로젝트
 - 챕터별 예제를 통한 적용. 학습 설명은 상세히 주석을 달아 놓았음.
   - 챕터 0 : 개발환경 세팅
