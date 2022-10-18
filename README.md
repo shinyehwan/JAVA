@@ -1,7 +1,8 @@
 # java
+자바 기본부터 적용까지의 연습, 정리
 
 ## CODING_JAVA
-생활코딩 강의를 통한 연습 적용
+생활코딩 강의를 통한 연습 및 적용
 
 ## FAST_JAVA
 - fast_campus
