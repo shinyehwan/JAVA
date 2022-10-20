@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="17일차 review">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_17일차/부모의_부모_클래스에_존재하는_동명의_변수에_접근하는_방법.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter19/init메서드가_생성자처럼_작동하게_해주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter19/super_메서드를_명시적으로_호출해서_문제를_해결해주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter19/계산기_객체가_더하는_기능의_옵션을_3가지_이상_가지도록_만들어주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter19/사람객체를_만드는_옵션을_2가지_만들어주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter19/상황_따라서_디폴트_생성자와_직접구현_생성자_중_1개를_이용해주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter19/생성자_관련_논술형.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter19/생성자_연쇄호출을_이용해서_문제를_풀어주세요.java" afterDir="false" />
+    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 19 문풀완료!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter20/this와_super변수의_차이를_설명하는_예를_만들어주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter21/변수a를_상수로_만들어주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter22/배열안의_숫자들의_평균을_구해주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter23/switch_개념.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_17일차/같은_객체라도_조종하는_리모콘_타입에_따라_활성화_되는_변수가_다를_수_있다.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_17일차/같은_객체라도_조종하는_리모콘_타입에_따라_활성화_되는_변수가_다를_수_있다.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +170,8 @@
       <workItem from="1665843351145" duration="3387000" />
       <workItem from="1665918523796" duration="4452000" />
       <workItem from="1666112342167" duration="12000" />
-      <workItem from="1666112366709" duration="7450000" />
+      <workItem from="1666112366709" duration="8780000" />
+      <workItem from="1666253636427" duration="3229000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664194147526</created>
@@ -301,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666157773884</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="chapter 19 문풀완료!">
+      <created>1666197301132</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666197301132</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +342,8 @@
     <MESSAGE value="전사의_무기변경_메서드구현_각_무기마다의_데미지도_구현V3" />
     <MESSAGE value="String불변성과 StringBuilder, 스트림 방식과 일반적인 방식 비교, ArrayList를_배우는_이유까지" />
     <MESSAGE value="17일차 review" />
-    <option name="LAST_COMMIT_MESSAGE" value="17일차 review" />
+    <MESSAGE value="chapter 19 문풀완료!" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 19 문풀완료!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
