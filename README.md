@@ -7,7 +7,7 @@
 생활코딩 강의를 통한 연습 및 적용
 
 ## FAST_JAVA
-- fast_campus 강의를 통한 연습 및 
+- fast_campus 강의를 통한 연습 및 정리
 - JAVA 기초
 - 객체 지향 프로그래밍
 
