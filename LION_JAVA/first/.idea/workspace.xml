@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 19 문풀완료!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter20/this와_super변수의_차이를_설명하는_예를_만들어주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter21/변수a를_상수로_만들어주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter22/배열안의_숫자들의_평균을_구해주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter23/switch_개념.java" afterDir="false" />
+    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 23까지 문풀완료!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/static_개념.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/static을_사용하요_코드가_작동하도록_해주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/각각의_사람이_올바른_자기소개를_하도록_해주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/각각의_사람이_올바른_자기소개를_하도록_해주세요_static변수와_인스턴스_메서드java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/각각의_사람이_올바른_자기소개를_하도록_해주세요_인스턴스변수와_인스턴스_메서드.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/계산기의_더하기가_작동하게_해주세요_static금지.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/문장에서_x가_얼마나_많이_들어_있는지_알려주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/올바른_PI변수를_만들어주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/올바른_출력_메서드를_만들어주세요_static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/올바른_출력_메서드를_만들어주세요_static_오버로딩.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/자동차를_달리게_해주세요_static금지.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_17일차/같은_객체라도_조종하는_리모콘_타입에_따라_활성화_되는_변수가_다를_수_있다.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_17일차/같은_객체라도_조종하는_리모콘_타입에_따라_활성화_되는_변수가_다를_수_있다.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +69,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/chapter24" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter28" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter18" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter17" />
@@ -171,7 +178,11 @@
       <workItem from="1665918523796" duration="4452000" />
       <workItem from="1666112342167" duration="12000" />
       <workItem from="1666112366709" duration="8780000" />
-      <workItem from="1666253636427" duration="3229000" />
+      <workItem from="1666253636427" duration="5303000" />
+      <workItem from="1666308719636" duration="5148000" />
+      <workItem from="1666452704049" duration="7000" />
+      <workItem from="1666595379521" duration="1000" />
+      <workItem from="1666619477407" duration="1079000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664194147526</created>
@@ -306,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666197301132</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="chapter 23까지 문풀완료!">
+      <created>1666306402603</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666306402603</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +361,8 @@
     <MESSAGE value="String불변성과 StringBuilder, 스트림 방식과 일반적인 방식 비교, ArrayList를_배우는_이유까지" />
     <MESSAGE value="17일차 review" />
     <MESSAGE value="chapter 19 문풀완료!" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 19 문풀완료!" />
+    <MESSAGE value="chapter 23까지 문풀완료!" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 23까지 문풀완료!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
