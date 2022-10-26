@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 23까지 문풀완료!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/static_개념.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/static을_사용하요_코드가_작동하도록_해주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/각각의_사람이_올바른_자기소개를_하도록_해주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/각각의_사람이_올바른_자기소개를_하도록_해주세요_static변수와_인스턴스_메서드java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/각각의_사람이_올바른_자기소개를_하도록_해주세요_인스턴스변수와_인스턴스_메서드.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/계산기의_더하기가_작동하게_해주세요_static금지.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/문장에서_x가_얼마나_많이_들어_있는지_알려주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/올바른_PI변수를_만들어주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/올바른_출력_메서드를_만들어주세요_static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/올바른_출력_메서드를_만들어주세요_static_오버로딩.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter24/자동차를_달리게_해주세요_static금지.java" afterDir="false" />
+    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 37 getter와 setter 공부!">
+      <change afterPath="$PROJECT_DIR$/../.idea/LION_JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter39/팩토리_패턴_v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter39/팩토리_패턴_v1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter39/팩토리_패턴_v2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,38 +44,52 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/chapter39" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter24" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter28" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter18" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.chapter6.Main">
+  <component name="RunManager" selected="Application.팩토리_패턴_v1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter7.Main" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="팩토리_패턴_v1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter39.팩토리_패턴_v1" />
+      <module name="first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,6 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.팩토리_패턴_v1" />
         <item itemvalue="Application.chapter6.Main" />
         <item itemvalue="Application.chapter12.Main" />
         <item itemvalue="Application.Main" />
@@ -182,7 +191,9 @@
       <workItem from="1666308719636" duration="5148000" />
       <workItem from="1666452704049" duration="7000" />
       <workItem from="1666595379521" duration="1000" />
-      <workItem from="1666619477407" duration="1079000" />
+      <workItem from="1666619477407" duration="1730000" />
+      <workItem from="1666759856153" duration="5205000" />
+      <workItem from="1666784828575" duration="1950000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664194147526</created>
@@ -324,7 +335,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666306402603</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="chapter 24까지 문풀완료!">
+      <created>1666621803124</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1666621803124</updated>
+    </task>
+    <task id="LOCAL-00022" summary="chapter 37 getter와 setter 공부!">
+      <created>1666760327923</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666760327923</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +387,9 @@
     <MESSAGE value="17일차 review" />
     <MESSAGE value="chapter 19 문풀완료!" />
     <MESSAGE value="chapter 23까지 문풀완료!" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 23까지 문풀완료!" />
+    <MESSAGE value="chapter 24까지 문풀완료!" />
+    <MESSAGE value="chapter 37 getter와 setter 공부!" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 37 getter와 setter 공부!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
