@@ -1,4 +1,4 @@
-package chapter25;
+package chapter25_형변환;
 
 /**
  * 2가지

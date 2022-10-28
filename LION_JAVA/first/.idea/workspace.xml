@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 37 getter와 setter 공부!">
-      <change afterPath="$PROJECT_DIR$/../.idea/LION_JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter39/팩토리_패턴_v1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter39/팩토리_패턴_v1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter39/팩토리_패턴_v2.java" afterDir="false" />
+    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 39 팩토리 패턴 공부!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/double형변수_d_에_담긴_10_5를_float_형_변수_f에_넣어주세요_그_반대작업도_진행해주세요_개념_형변환.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/객체를_매개변수로_받는_저장_메서드의_개수_최대한줄이기_개념_상속_구현을_통한_형변환.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/객체를_매개변수로_받는_저장_메소드를_1개로_줄여보세요_개념_Object클래스_모든클래스의_최초조상.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/기본형_변수의_경우_자동형변환을하여_저장_메서드의_개수_최대한줄이기_개념_자동형변환_오버로딩.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/다양한_데이터를_입력받아_저장_수_있는_저장소_클래스를_만들어주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/모든_기본형_타입에_대해서_래퍼클래스를_사용하여_최대값_최소값을_출력해보세요_개념_래퍼클래스.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter25/개념_범용성_있는_클래스_만드는_방법_메소드개수줄이는이유.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/개념_범용성_있는_클래스_만드는_방법_메소드개수줄이는이유.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +46,30 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first/src/main/java/chapter25&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/chapter25" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter39" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter24" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter28" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter18" />
-      <recent name="$PROJECT_DIR$/src/main/java/chapter17" />
     </key>
   </component>
   <component name="RunManager" selected="Application.팩토리_패턴_v1">
@@ -193,7 +195,8 @@
       <workItem from="1666595379521" duration="1000" />
       <workItem from="1666619477407" duration="1730000" />
       <workItem from="1666759856153" duration="5205000" />
-      <workItem from="1666784828575" duration="1950000" />
+      <workItem from="1666784828575" duration="4140000" />
+      <workItem from="1666869006978" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664194147526</created>
@@ -349,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666760327923</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="chapter 39 팩토리 패턴 공부!">
+      <created>1666797942870</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666797942870</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +399,8 @@
     <MESSAGE value="chapter 23까지 문풀완료!" />
     <MESSAGE value="chapter 24까지 문풀완료!" />
     <MESSAGE value="chapter 37 getter와 setter 공부!" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 37 getter와 setter 공부!" />
+    <MESSAGE value="chapter 39 팩토리 패턴 공부!" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 39 팩토리 패턴 공부!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
