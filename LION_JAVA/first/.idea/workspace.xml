@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 39 팩토리 패턴 공부!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/double형변수_d_에_담긴_10_5를_float_형_변수_f에_넣어주세요_그_반대작업도_진행해주세요_개념_형변환.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/객체를_매개변수로_받는_저장_메서드의_개수_최대한줄이기_개념_상속_구현을_통한_형변환.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/객체를_매개변수로_받는_저장_메소드를_1개로_줄여보세요_개념_Object클래스_모든클래스의_최초조상.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/기본형_변수의_경우_자동형변환을하여_저장_메서드의_개수_최대한줄이기_개념_자동형변환_오버로딩.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/다양한_데이터를_입력받아_저장_수_있는_저장소_클래스를_만들어주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/모든_기본형_타입에_대해서_래퍼클래스를_사용하여_최대값_최소값을_출력해보세요_개념_래퍼클래스.java" afterDir="false" />
+    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 25 문풀 완료!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter25/개념_범용성_있는_클래스_만드는_방법_메소드개수줄이는이유.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter25_형변환/개념_범용성_있는_클래스_만드는_방법_메소드개수줄이는이유.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +189,8 @@
       <workItem from="1666619477407" duration="1730000" />
       <workItem from="1666759856153" duration="5205000" />
       <workItem from="1666784828575" duration="4140000" />
-      <workItem from="1666869006978" duration="598000" />
+      <workItem from="1666869006978" duration="2342000" />
+      <workItem from="1667106919665" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664194147526</created>
@@ -359,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666797942870</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="chapter 25 문풀 완료!">
+      <created>1666936131063</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666936131063</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,7 +401,8 @@
     <MESSAGE value="chapter 24까지 문풀완료!" />
     <MESSAGE value="chapter 37 getter와 setter 공부!" />
     <MESSAGE value="chapter 39 팩토리 패턴 공부!" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 39 팩토리 패턴 공부!" />
+    <MESSAGE value="chapter 25 문풀 완료!" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 25 문풀 완료!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
