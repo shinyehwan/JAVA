@@ -4,18 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 41 옵저버 패턴">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter38_싱글톤패턴/싱글톤_패턴1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/다른_객체가_해당_메서드를_이용하게_해주세요_인터페이스사용.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/다른_객체가_해당_메서드를_이용하게_해주세요_인터페이스사용V2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/버튼이_동물에게_클릭_사실을_알리도록_해주세요V1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/버튼이_동물에게_클릭_사실을_알리도록_해주세요V2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/버튼이_동물에게_클릭_사실을_알리도록_해주세요V3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/인터페이스_구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/인터페이스_동물이_소리를_내게_하는_방법V1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/인터페이스_동물이_소리를_내게_하는_방법V2.java" afterDir="false" />
+    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 40 옵저버 패턴 문풀완료!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter26_형변환2/수동형변환으로_오류를_해결.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter41/계산식을_삽입해서_계산을_수행.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter41/익명내부클래스와_인터페이스를_사용해서_문제를_풀어주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter41/익명내부클래스와_인터페이스를_사용해서_문제를_풀어주세요V2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter41/익명내부클래스와_인터페이스를_사용해서_문제를_풀어주세요V3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter42/버튼_옵저버_패턴1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter42/버튼_옵저버_패턴2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter42/버튼_옵저버_패턴3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter42/홍길동과_홍길순을_내부_익명클래스로_변경.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter43/View_OnClickListener클래스_만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter43/setOnClickListener메서드_구현.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter43/setOnClickListener메서드_구현V2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter43/setOnClickListener메서드_구현V3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter43/setOnClickListener메서드_구현V4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter43/액티비티_구현.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/다른_객체가_해당_메서드를_이용하게_해주세요.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/다른_객체가_해당_메서드를_이용하게_해주세요.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter39/팩토리_패턴_v1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter39/팩토리_패턴_v1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +63,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first/src/main/java/chapter40_옵저버패턴",
+    "last_opened_file_path": "/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first/src/main/java/chapter41",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -68,11 +74,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/chapter41" />
+      <recent name="$PROJECT_DIR$/src/main/java/chapter42" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter25" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter39" />
-      <recent name="$PROJECT_DIR$/src/main/java/chapter24" />
-      <recent name="$PROJECT_DIR$/src/main/java/chapter28" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter43" />
     </key>
   </component>
   <component name="RunManager" selected="Application.chapter40_옵저버패턴.Main">
@@ -200,7 +209,8 @@
       <workItem from="1666759856153" duration="5205000" />
       <workItem from="1666784828575" duration="4140000" />
       <workItem from="1666869006978" duration="2342000" />
-      <workItem from="1667106919665" duration="7403000" />
+      <workItem from="1667106919665" duration="12773000" />
+      <workItem from="1667209970404" duration="6689000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664194147526</created>
@@ -377,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667121962475</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="chapter 40 옵저버 패턴 문풀완료!">
+      <created>1667201488654</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1667201488654</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +437,8 @@
     <MESSAGE value="chapter 39 팩토리 패턴 공부!" />
     <MESSAGE value="chapter 25 문풀 완료!" />
     <MESSAGE value="chapter 41 옵저버 패턴" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 41 옵저버 패턴" />
+    <MESSAGE value="chapter 40 옵저버 패턴 문풀완료!" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 40 옵저버 패턴 문풀완료!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,6 +462,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/chapter8/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴/OnClickEventListener를_사용해서_버튼이_리스너에게_클릭사실을_알리도록_해주세요.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
