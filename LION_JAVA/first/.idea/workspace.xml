@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 41,42,43 문풀완료!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter26_형변환2/다양한_데이터를_저장할_수_있는_저장소_클래스를_구현_Object클래스_범용데이터_저장소.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter26_형변환2/박싱_언박싱_관련_다양한_예시.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter26_형변환2/숫자를_저장하는_저장소_클래스를_구현해주세요V1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter26_형변환2/숫자를_저장하는_저장소_클래스를_구현해주세요V2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter26_형변환2/저장소를_만들고_i의_값을_저장한_후_다시_받아보세요.java" afterDir="false" />
+    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 26 형변환 마무리!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter27/문자_a_b_c가_저장_되는_캐릭터_배열을_만들어주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter27/배열의한계와_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter27/배열의한계와_ArrayListV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter27/사람_리모콘_3개_저장할_수_있는_배열을_만들고_사람_리모콘으로_채워주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter27/숫자1부터10까지_저장해주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter27/숫자_여러개_저장할_수_있는_클래스를_만들어주세요.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first/src/main/java/chapter26_형변환2",
+    "last_opened_file_path": "/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first/src/main/java/chapter27",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -63,11 +64,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/chapter27" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter26_형변환2" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter41" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter42" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴" />
-      <recent name="$PROJECT_DIR$/src/main/java/chapter25" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="chapter43" />
@@ -200,7 +201,7 @@
       <workItem from="1666869006978" duration="2342000" />
       <workItem from="1667106919665" duration="12773000" />
       <workItem from="1667209970404" duration="6749000" />
-      <workItem from="1667314992069" duration="3851000" />
+      <workItem from="1667314992069" duration="7056000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664194147526</created>
@@ -391,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667286311805</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="chapter 26 형변환 마무리!">
+      <created>1667321382839</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1667321382839</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +418,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="객체의 전체적인 개념" />
     <MESSAGE value="this 사용. 알긴 아는데 다시 복습할 예정" />
     <MESSAGE value="클래스와 객체3" />
     <MESSAGE value="클래스와 객체5" />
@@ -435,7 +442,8 @@
     <MESSAGE value="chapter 41 옵저버 패턴" />
     <MESSAGE value="chapter 40 옵저버 패턴 문풀완료!" />
     <MESSAGE value="chapter 41,42,43 문풀완료!" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 41,42,43 문풀완료!" />
+    <MESSAGE value="chapter 26 형변환 마무리!" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 26 형변환 마무리!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
