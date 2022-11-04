@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 27 배열2 마무리!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter30/ArrayList_addAt만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter30/ArrayList_remove만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter30/ArrayList_총정리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter30/ArrayList최종.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter32/ArrayList에_제너릭을_적용.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter32/제너릭을_이용해서_클래스_3개를_1개로_줄여주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter32/제너릭이_적용된_ArrayList_클래스를_만들어주세요_처음부터_끝까지.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter32/제너릭이_적용된_저장소_클래스를_만들어주세요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter33/Equals와는는.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter33/HashMapV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter33/HashMapV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter33/HashMapV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter33/개념_리스트와맵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter27/문자_a_b_c가_저장_되는_캐릭터_배열을_만들어주세요.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter27_배열2/문자_a_b_c가_저장_되는_캐릭터_배열을_만들어주세요.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter27/배열의한계와_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter27_배열2/배열의한계와_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter27/배열의한계와_ArrayListV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter27_배열2/배열의한계와_ArrayListV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter27/사람_리모콘_3개_저장할_수_있는_배열을_만들고_사람_리모콘으로_채워주세요.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter27_배열2/사람_리모콘_3개_저장할_수_있는_배열을_만들고_사람_리모콘으로_채워주세요.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter27/숫자1부터10까지_저장해주세요.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter27_배열2/숫자1부터10까지_저장해주세요.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter27/숫자_여러개_저장할_수_있는_클래스를_만들어주세요.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter27_배열2/숫자_여러개_저장할_수_있는_클래스를_만들어주세요.java" afterDir="false" />
-    </list>
+    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 33 HashMap 마무리!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,7 +195,7 @@
       <workItem from="1667209970404" duration="6749000" />
       <workItem from="1667314992069" duration="12073000" />
       <workItem from="1667404432651" duration="2199000" />
-      <workItem from="1667533737715" duration="4205000" />
+      <workItem from="1667533737715" duration="4481000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664194147526</created>
@@ -421,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667383495021</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="chapter 33 HashMap 마무리!">
+      <created>1667549455596</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1667549455596</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,7 +426,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="클래스와 객체3" />
     <MESSAGE value="클래스와 객체5" />
     <MESSAGE value="클래스와 객체7" />
     <MESSAGE value="챕터 11 : 구성" />
@@ -465,7 +450,8 @@
     <MESSAGE value="chapter 41,42,43 문풀완료!" />
     <MESSAGE value="chapter 26 형변환 마무리!" />
     <MESSAGE value="chapter 27 배열2 마무리!" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 27 배열2 마무리!" />
+    <MESSAGE value="chapter 33 HashMap 마무리!" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 33 HashMap 마무리!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
