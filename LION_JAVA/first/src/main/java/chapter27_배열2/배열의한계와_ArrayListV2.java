@@ -1,4 +1,4 @@
-package chapter27;
+package chapter27_배열2;
 
 //code.oa.gg/java8/987
 

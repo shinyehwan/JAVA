@@ -1,4 +1,4 @@
-package chapter27;
+package chapter27_배열2;
 
 
 class 배열의한계와_ArrayList {

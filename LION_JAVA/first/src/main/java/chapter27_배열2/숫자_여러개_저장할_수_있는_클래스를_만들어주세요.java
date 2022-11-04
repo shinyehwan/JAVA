@@ -1,4 +1,4 @@
-package chapter27;
+package chapter27_배열2;
 
 // 문제 : 아래와 같이 실행되게 해주세요.
 

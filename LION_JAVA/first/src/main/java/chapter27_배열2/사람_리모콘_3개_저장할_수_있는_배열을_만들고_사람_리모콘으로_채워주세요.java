@@ -1,4 +1,4 @@
-package chapter27;
+package chapter27_배열2;
 
 // 문제 : 사람 리모콘 3개 저장할 수 있는 배열을 만들고 사람 리모콘으로 채워주세요.
 
