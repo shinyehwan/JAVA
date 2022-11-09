@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 33 HashMap 마무리!" />
+    <list default="true" id="827cfdd4-c1be-4738-8c38-6c717d9d1f30" name="Changes" comment="chapter 31부터 ~">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter31/번호를_입력받는_프로그램_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter31/번호를_입력받는_프로그램_배열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter31/사용자에게_숫자_5개_입력받고_ArrayList에_저장.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter31/사용자에게_숫자_5개_입력받고_ArrayList에_저장V2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter31/사용자에게_숫자_5개_입력받고_배열에_저장.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter34_인터페이스/interfaceV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter34_인터페이스/interfaceV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter34_인터페이스/interfaceV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter34_인터페이스/interfaceV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter34_인터페이스/interfaceV5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter36_예외처리/ArithmeticException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter36_예외처리/ArithmeticException_부하직원이_처리하지_못하면_선임이_처리해야_한다.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter36_예외처리/ArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter36_예외처리/ArrayIndexOutOfBoundsException_부하직원이_처리하지_못하면_선임이_처리해야_한다.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter36_예외처리/예외처리_커스텀_예외.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter36_예외처리/예외처리_커스텀_예외V2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter36_예외처리/올바른_나이를_입력할_때_까지_집요하게_계속_물어보게_해주세요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter36_예외처리/채우기_그리고_나누기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter36_예외처리/채우기_그리고_나누기V2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +66,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first/src/main/java/chapter27&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yhsmac/Documents/GitHub/JAVA/LION_JAVA/first/src/main/java/chapter36_예외처리&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -56,13 +77,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/chapter36_예외처리" />
+      <recent name="$PROJECT_DIR$/src/main/java/chapter34_인터페이스" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter27" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter26_형변환2" />
       <recent name="$PROJECT_DIR$/src/main/java/chapter41" />
-      <recent name="$PROJECT_DIR$/src/main/java/chapter42" />
-      <recent name="$PROJECT_DIR$/src/main/java/chapter40_옵저버패턴" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter31" />
       <recent name="chapter43" />
     </key>
   </component>
@@ -195,7 +217,9 @@
       <workItem from="1667209970404" duration="6749000" />
       <workItem from="1667314992069" duration="12073000" />
       <workItem from="1667404432651" duration="2199000" />
-      <workItem from="1667533737715" duration="4481000" />
+      <workItem from="1667533737715" duration="11703000" />
+      <workItem from="1667914321823" duration="675000" />
+      <workItem from="1668005967606" duration="1919000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664194147526</created>
@@ -407,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667549455596</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="chapter 33 HashMap 마무리!">
+      <created>1667549475698</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1667549475698</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +457,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="클래스와 객체5" />
     <MESSAGE value="클래스와 객체7" />
     <MESSAGE value="챕터 11 : 구성" />
     <MESSAGE value="수정" />
@@ -451,7 +481,8 @@
     <MESSAGE value="chapter 26 형변환 마무리!" />
     <MESSAGE value="chapter 27 배열2 마무리!" />
     <MESSAGE value="chapter 33 HashMap 마무리!" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 33 HashMap 마무리!" />
+    <MESSAGE value="chapter 31부터 ~" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 31부터 ~" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
